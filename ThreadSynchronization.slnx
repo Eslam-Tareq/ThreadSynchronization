@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ThreadSynchronizationOverView/ThreadSynchronizationOverView.csproj" />
+  <Project Path="WebServerSeatBooking/WebServerSeatBooking.csproj" />
+</Solution>
