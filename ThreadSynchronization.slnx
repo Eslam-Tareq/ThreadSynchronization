@@ -1,5 +1,8 @@
 <Solution>
   <Project Path="GolbalMutex/GlobalMutex.csproj" />
+  <Project Path="ReadWriteLock/ReadWriteLock.csproj" />
+  <Project Path="SignlingWithAutoResetEvent/SignalingWithAutoResetEvent.csproj" Id="f4bc5193-7839-47f6-8300-c54cf7f4d467" />
   <Project Path="ThreadSynchronizationOverView/ThreadSynchronizationOverView.csproj" />
   <Project Path="WebServerSeatBooking/WebServerSeatBooking.csproj" />
+  <Project Path="WebServerUsingSemaphore/WebServerUsingSemaphore.csproj" />
 </Solution>
