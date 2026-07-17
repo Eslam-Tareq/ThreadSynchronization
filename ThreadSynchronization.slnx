@@ -4,6 +4,7 @@
   <Project Path="ReadWriteLock/ReadWriteLock.csproj" />
   <Project Path="SignlingWithAutoResetEvent/SignalingWithAutoResetEvent.csproj" Id="f4bc5193-7839-47f6-8300-c54cf7f4d467" />
   <Project Path="ThreadSynchronizationOverView/ThreadSynchronizationOverView.csproj" />
+  <Project Path="TwoWaySignalingProducderConsumer/TwoWaySignalingProducderConsumer.csproj" Id="e4f7dacf-6315-4a2d-9d6f-8c46090c0a38" />
   <Project Path="WebServerSeatBooking/WebServerSeatBooking.csproj" />
   <Project Path="WebServerUsingSemaphore/WebServerUsingSemaphore.csproj" />
 </Solution>
