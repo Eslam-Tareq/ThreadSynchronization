@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="GolbalMutex/GlobalMutex.csproj" />
+  <Project Path="ManualResetEvent/ManualResetEvent.csproj" Id="889f53db-a892-46e2-8012-d149164b770c" />
   <Project Path="ReadWriteLock/ReadWriteLock.csproj" />
   <Project Path="SignlingWithAutoResetEvent/SignalingWithAutoResetEvent.csproj" Id="f4bc5193-7839-47f6-8300-c54cf7f4d467" />
   <Project Path="ThreadSynchronizationOverView/ThreadSynchronizationOverView.csproj" />
